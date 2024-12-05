@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThadS97
 - 👀 I’m interested in programming, web development, databases, computer networking, artificial intelligence, video games, and just modern technology in general. 
-- 🌱 I’m currently learning Python; I can write in C++, C, Java, JavaScript, HTML 5, and SQL.
+- 🌱 I’m currently learning Kotlin; I can write in C++, C, Java, JavaScript, HTML 5, Python, and SQL.
 - 📫 How to reach me:   E-mail: towensjr@me.com | LinkedIn: www.linkedin.com/in/thaddeus-owens | Discord: thad_97
 
 <!---
